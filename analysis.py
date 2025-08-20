@@ -1,4 +1,4 @@
-# 24f1002401@ds.study.iitm.ac.in
+# 23f1002420@ds.study.iitm.ac.in
 # Marimo interactive notebook for demonstrating variable relationships
 
 import marimo as mo
@@ -26,3 +26,4 @@ mo.md(f"""
 
 {"🔵" * scale.value}
 """)
+
